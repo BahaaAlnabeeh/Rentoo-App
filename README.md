@@ -1,8 +1,22 @@
 # Rentoo-App
 
-Rentoo app is an application where you can easily do rental services like rental cars, chalets, homes, and more. The application offers the best options, from cheap service to premium service rental
+Rentoo app
+The main objective of this application is to provide an integrated solution for residential and commercial rentals
 
-For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+It has many features, including:
+* Providing many rental services (cars, apartments, chalets, workspaces).
+* Display the features and price of each service nicely.
+* Choose your interests when you enter the application, and these interests will be analyzed, and accordingly, the best services will be offered to you.
+* The ability to choose your location on the map, and accordingly, the places closest to you will be displayed.
+* The possibility of communicating with the owner directly.
+* The ability to add a service to your favorites for faster reference later.
+* The ability to search for the service you want
+* Allowing the user to evaluate the service after completing his reservation.
+* The application supports both Arabic and English languages.
+* The ability to see all your reservations and filter them.
+* Get notified when new listings enter the application or when your reservation is completed.
+* 
+Would you like to make an app like this? Contact with me at Email: alnbyhbha@gmail.com
 
 App Screens:
 
