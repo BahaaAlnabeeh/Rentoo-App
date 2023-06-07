@@ -12,7 +12,7 @@ It has many features, including:
 * The ability to add a service to your favorites for faster reference later.
 * The ability to search for the service you want
 * Allowing the user to evaluate the service after completing his reservation.
-* The application supports both Arabic and English languages.
+* The application is multi-language.
 * The ability to see all your reservations and filter them.
 * Get notified when new listings enter the application or when your reservation is completed.
 
