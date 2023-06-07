@@ -15,7 +15,7 @@ It has many features, including:
 * The application supports both Arabic and English languages.
 * The ability to see all your reservations and filter them.
 * Get notified when new listings enter the application or when your reservation is completed.
-* 
+
 Would you like to make an app like this? Contact with me at Email: alnbyhbha@gmail.com
 
 App Screens:
