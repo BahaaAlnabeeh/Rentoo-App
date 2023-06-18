@@ -2,7 +2,7 @@
 
 Rentoo app is a unique application that provides an integrated solution for residential and commercial rentals, It was programmed using Flutter framework with APIs to make the application available on both Android and IOS. 
 
-Has many features, including:
+Has many features, including: 
 * Providing many rental services (cars, apartments, chalets, workspaces).
 * Display the features and price of each service nicely.
 * Choose your interests when you enter the application, and these interests will be analyzed, and accordingly, the best services will be offered to you.
