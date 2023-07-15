@@ -15,7 +15,7 @@ Has many features, including:
 * The ability to see all your reservations and filter them.
 * Get notified when new listings enter the application or when your reservation is completed.
 
-Would you like to make an app like this? Contact with me at Email: alnbyhbha@gmail.com
+Would you like to make an app like this? Contact with me 
 
 App Screens:
 
